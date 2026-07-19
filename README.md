@@ -1,42 +1,180 @@
-<h1 align="center">Hi 👋, I'm Devesh Gaur</h1>
-<h3 align="center">Full Stack Developer | AI & Web3 Enthusiast | Computer Science Student</h3>
+<h1 align="center">Hi, I'm Devesh Gaur</h1>
+<h3 align="center"> Full Stack Developer | MERN Stack | AI Enthusiast | Building Scalable Web Applications</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=devesh2206200&label=Profile%20views&color=0e75b6&style=flat" alt="devesh2206200" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devesh2206200" alt="devesh2206200" /></a> </p>
-
-- 🔭 I’m currently working on [Smart Healthcare Management System](https://github.com/devesh2206200/my-project.git)
-
-- 🌱 I’m currently learning **Advanced React, Backend Architecture**
-
-- 👯 I’m looking to collaborate on **AI-based web applications, Healthcare tech, and Web3 projects**
-
-- 🤝 I’m looking for help with **Scaling full-stack applications**
-
-- 👨‍💻 All of my projects are available at [https://github.com/devesh2206200](https://github.com/devesh2206200)
-
-- 📝 I regularly write articles on [Currently not writing blogs, but planning to start soon](Currently not writing blogs, but planning to start soon)
-
-- 💬 Ask me about **JavaScript, React, Python, Flask, MySQL, and Web Development**
-
-- 📫 How to reach me **dgaur2801@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1kKf0jhsEYZHI5N_0VxpTsgpvmoRBYKDL/view?usp=sharing](https://drive.google.com/file/d/1kKf0jhsEYZHI5N_0VxpTsgpvmoRBYKDL/view?usp=sharing)
-
-- ⚡ Fun fact **I love turning complex problems into simple, scalable systems**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/devesh-gaur-a00266297" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devesh-gaur-a00266297" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/dgaur2801" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dgaur2801" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/140301" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="140301" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+Stack+Developer;React+%7C+Node.js+%7C+Express.js+%7C+MongoDB;AI-Powered+Web+Applications;Always+Learning+New+Technologies" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=devesh2206200&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devesh2206200&show_icons=true&locale=en&layout=compact" alt="devesh2206200" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devesh2206200&show_icons=true&locale=en" alt="devesh2206200" /></p>
+## About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devesh2206200&" alt="devesh2206200" /></p>
+-  I'm currently working on **SmartSpend-AI – an AI-powered personal finance management platform built with the MERN stack.**
+- Currently learning **Advanced React, Backend Architecture, System Design, Docker, and AWS**
+-  Looking to collaborate on **Full Stack, AI-powered, and Open Source projects**
+-  Ask me about **React, Node.js, Express.js, MongoDB, JavaScript, REST APIs, JWT Authentication**
+-  Reach me at **dgaur2801@gmail.com**
+- Fun fact: **I enjoy turning complex problems into scalable solutions.**
+
+---
+
+# Tech Stack
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind,redux,vite" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+### Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,python,java" />
+</p>
+
+### Tools & Platforms
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,vercel,render,firebase" />
+</p>
+
+---
+
+#  Featured Projects
+
+##  SmartSpend-AI
+
+AI-powered personal finance management platform.
+
+### Features
+
+- JWT Authentication
+-  Expense Analytics
+- AI-powered Financial Insights
+- Dashboard
+- Transaction Management
+- MongoDB Database
+
+**Tech Stack**
+
+React • Node.js • Express.js • MongoDB • JWT • Chart.js
+
+---
+
+## 🔗 URL Shortener
+
+A secure and scalable URL shortening platform.
+
+### Features
+
+-  Short URL Generation
+-  Click Analytics
+- Authentication
+- QR Code Generation
+- Cloud Deployment
+
+**Tech Stack**
+
+React • Node.js • Express.js • MongoDB
+
+---
+
+## 🏥 Smart Healthcare Management System
+
+Healthcare platform built using the MERN stack.
+
+### Features
+
+- Patient Management
+- Doctor Dashboard
+- Appointment Booking
+- Secure Authentication
+- REST APIs
+
+---
+
+# GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=devesh2206200&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devesh2206200&layout=compact&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=devesh2206200&theme=tokyonight"/>
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=devesh2206200&theme=tokyo-night"/>
+</p>
+
+---
+
+# Achievements
+
+- Built multiple Full Stack MERN applications
+-  Developed secure REST APIs with JWT Authentication
+- Integrated AI features into web applications
+- Strong understanding of React.js, Node.js, Express.js, and MongoDB
+- Passionate about scalable backend development
+
+---
+
+#  Connect With Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/devesh-gaur-a00266297/" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="https://github.com/devesh2206200" target="_blank">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+<a href="mailto:dgaur2801@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
+<a href="https://leetcode.com/" target="_blank">
+<img src="https://assets.leetcode.com/static_assets/public/icons/favicon-32x32.png" width="48"/>
+</a>
+</p>
+
+---
+
+# Current Goals
+
+-  Land a Full Stack Developer / SDE-1 role
+-  Master System Design
+-  Learn AWS & Docker
+-  Contribute to Open Source
+- Build impactful AI-powered products
+
+---
+
+<p align="center">
+ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
+</p>
