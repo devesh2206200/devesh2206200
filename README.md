@@ -107,14 +107,6 @@ Healthcare platform built using the MERN stack.
 
 ---
 
-
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=devesh2206200&theme=tokyonight"/>
-</p>
-
----
-
 # 📈 Contribution Graph
 
 <p align="center">
